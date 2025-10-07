@@ -1,6 +1,6 @@
 # 🧠Fitness & Health Metrics Dataset
 ![fitness_classification](https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness.webp)
-<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness.webp" />
+<img width="900" height="600" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness.webp" />
 
 
 <h1>📋 Overview</h1>
