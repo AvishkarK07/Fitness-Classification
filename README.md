@@ -1,12 +1,13 @@
 # Fitness-Classification
 
 🧠 Fitness & Health Metrics Dataset
-📋 Overview
+
+#📋 Overview
 
 This dataset contains 2,000 records representing individuals’ health and fitness metrics. It is designed for data analysis, health prediction modeling, and fitness insights generation.
 Each record includes demographic details, lifestyle indicators, and key physiological measurements that can be used to predict or evaluate fitness levels.
 
-⚙️ Usage Ideas
+##⚙️ Usage Ideas
 
 You can use this dataset for:
 
