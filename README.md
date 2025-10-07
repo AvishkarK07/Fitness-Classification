@@ -1,5 +1,5 @@
 # 🧠Fitness & Health Metrics Dataset
-![fitness_classification](https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/bltcc157be03a336644/6724e088ca36fb0e631eeb88/Starbucks-HOTC.jpg)
+![fitness_classification](https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness1.jpg)
 
 
 
