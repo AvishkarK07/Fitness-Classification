@@ -1,5 +1,5 @@
 # 🧠Fitness & Health Metrics Dataset
-![fitness_classification](https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness1.jpg)
+![fitness_classification](https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness.webp)
 
 
 
