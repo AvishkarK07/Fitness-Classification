@@ -29,6 +29,10 @@ Data visualization: Create charts for correlation, activity vs. nutrition, age v
 
 Health insights: Analyze patterns for wellness improvement strategies.
 
+<h1>🧾 Project Outcome</h1>
+
+A trained model that can classify individuals as Fit or Unfit with good accuracy, supported by insightful data visualizations and statistical analysis.
+
 <h1>🏁 Conclusion</h1>
 
 This project demonstrates how data science and ML can be applied to personal health analytics identifying patterns that influence fitness and supporting smarter wellness decisions.
