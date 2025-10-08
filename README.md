@@ -10,24 +10,24 @@ Each record includes demographic details, lifestyle indicators, and key physiolo
 
 <h1>🎯 Objectives</h1>
 
-To explore and clean fitness-related data.
+• To explore and clean fitness-related data.
 
-To visualize relationships between health parameters.
+• To visualize relationships between health parameters.
 
-To build a classification model that predicts whether a person is Fit or Unfit.
+• To build a classification model that predicts whether a person is Fit or Unfit.
 
-To derive meaningful insights to improve personal health and wellness.
+• To derive meaningful insights to improve personal health and wellness.
 <h1>⚙️ Usage Ideas</h1>
 
 You can use this dataset for:
 
-Predictive modeling: Determine fitness status (is_fit) using regression/classification models.
-
-Exploratory Data Analysis (EDA): Explore how factors like sleep, nutrition, or smoking affect fitness.
-
-Data visualization: Create charts for correlation, activity vs. nutrition, age vs. fitness, etc.
-
-Health insights: Analyze patterns for wellness improvement strategies.
+        • Predictive modeling: Determine fitness status (is_fit) using regression/classification models.
+        
+        • Exploratory Data Analysis (EDA): Explore how factors like sleep, nutrition, or smoking affect fitness.
+        
+        • Data visualization: Create charts for correlation, activity vs. nutrition, age vs. fitness, etc.
+        
+        • Health insights: Analyze patterns for wellness improvement strategies.
 
 <h1>🧠 Analysis Performed</h1>
 
@@ -35,7 +35,7 @@ Health insights: Analyze patterns for wellness improvement strategies.
 
     • Handled missing values
     
-    v Encoded categorical data
+    • Encoded categorical data
     
   
 2.Exploratory Data Analysis (EDA)
@@ -57,11 +57,11 @@ Health insights: Analyze patterns for wellness improvement strategies.
 
 4.Insights
 
-  • People with balanced sleep (6–8 hrs) and moderate calorie intake show higher fitness.
-  
-  • Very low or very high BMI correlates with being unfit.
-  
-  • Activity level is a strong predictor of fitness.
+      • People with balanced sleep (6–8 hrs) and moderate calorie intake show higher fitness.
+      
+      • Very low or very high BMI correlates with being unfit.
+      
+      • Activity level is a strong predictor of fitness.
 
 <h1>📊 Visualizations</h1>
 
