@@ -2,7 +2,6 @@
 
 <img width="1050" height="450" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness.webp" />
 
-<img width="400" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/Description.png" />
 
 <h1>📋 Overview</h1>
 
@@ -22,6 +21,12 @@ Using data analysis, visualization, and machine learning, the goal is to underst
 • To build a classification model that predicts whether a person is Fit or Unfit.
 
 • To derive meaningful insights to improve personal health and wellness.
+
+<h1>🧩 Dataset Information</h1>
+
+<img width="400" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/Description.png" />
+
+
 <h1>⚙️ Usage Ideas</h1>
 
 You can use this dataset for:
