@@ -87,11 +87,11 @@ You can use this dataset for:
 
 <h1>🚀 Technologies Used</h1>
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+• Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
-Jupyter Notebook / Google Colab
+• Jupyter Notebook / Google Colab
 
-Data Visualization Tools
+• Data Visualization Tools
 
 <h1>🧾 Project Outcome</h1>
 
