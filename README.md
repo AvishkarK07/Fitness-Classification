@@ -8,6 +8,10 @@
 This dataset contains 2,000 records representing individuals’ health and fitness metrics. It is designed for data analysis, health prediction modeling, and fitness insights generation.
 Each record includes demographic details, lifestyle indicators, and key physiological measurements that can be used to predict or evaluate fitness levels.
 
+<h1>📘 Project Description</h1>
+
+This project focuses on analyzing and classifying individuals’ fitness levels based on their health and lifestyle data.
+Using data analysis, visualization, and machine learning, the goal is to understand how various factors like age, sleep hours, BMI, calorie intake, and physical activity affect a person’s fitness status (Fit / Unfit).
 <h1>🎯 Objectives</h1>
 
 • To explore and clean fitness-related data.
