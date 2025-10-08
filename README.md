@@ -29,6 +29,52 @@ Data visualization: Create charts for correlation, activity vs. nutrition, age v
 
 Health insights: Analyze patterns for wellness improvement strategies.
 
+<h1>🧠 Analysis Performed</h1>
+
+1.Data Cleaning & Preprocessing
+
+  Handled missing values
+  
+  Encoded categorical data
+  
+  Scaled numeric features for ML models
+
+2.Exploratory Data Analysis (EDA)
+
+  Correlation heatmap between health parameters
+  
+  Distribution plots for BMI, Sleep Hours, Calories, etc.
+  
+  Bar plots for age vs fitness level
+  
+  Pie charts for Fit vs Unfit ratio
+
+3.Model Building
+
+  Split data into training & testing sets
+  
+  Used algorithms like Logistic Regression, Random Forest, Decision Tree
+  
+  Compared model accuracies and confusion matrices
+
+4.Evaluation Metrics
+
+  Accuracy
+  
+  Precision
+  
+  Recall
+  
+  F1-Score
+
+5.Insights
+
+  People with balanced sleep (6–8 hrs) and moderate calorie intake show higher fitness.
+  
+  Very low or very high BMI correlates with being unfit.
+  
+  Activity level is a strong predictor of fitness.
+
 <h1>📊 Visualizations</h1>
 
 🧮 Correlation Heatmap
