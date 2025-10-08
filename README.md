@@ -29,6 +29,16 @@ Data visualization: Create charts for correlation, activity vs. nutrition, age v
 
 Health insights: Analyze patterns for wellness improvement strategies.
 
+<h1>🚀 Technologies Used</h1>
+
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+Jupyter Notebook / Google Colab
+
+Machine Learning Algorithms
+
+Data Visualization Tools
+
 <h1>🧾 Project Outcome</h1>
 
 A trained model that can classify individuals as Fit or Unfit with good accuracy, supported by insightful data visualizations and statistical analysis.
