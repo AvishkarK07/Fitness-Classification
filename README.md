@@ -29,13 +29,23 @@ Data visualization: Create charts for correlation, activity vs. nutrition, age v
 
 Health insights: Analyze patterns for wellness improvement strategies.
 
+<h1>📊 Visualizations</h1>
+
+🧮 Correlation Heatmap
+
+📈 Age vs Fitness Bar Chart
+
+🕒 Sleep Hours Distribution
+
+❤️ Heart Rate vs Fitness Scatter Plot
+
+🥧 Fitness Percentage Pie Chart
+
 <h1>🚀 Technologies Used</h1>
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 Jupyter Notebook / Google Colab
-
-Machine Learning Algorithms
 
 Data Visualization Tools
 
