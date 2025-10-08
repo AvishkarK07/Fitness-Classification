@@ -2,6 +2,7 @@
 
 <img width="1050" height="450" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/fitness.webp" />
 
+<img width="400" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Fitness-Classification/blob/main/images/Description.png" />
 
 <h1>📋 Overview</h1>
 
