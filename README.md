@@ -33,35 +33,35 @@ Health insights: Analyze patterns for wellness improvement strategies.
 
 1.Data Cleaning & Preprocessing
 
-    Handled missing values
+    • Handled missing values
     
-    Encoded categorical data
+    v Encoded categorical data
     
   
 2.Exploratory Data Analysis (EDA)
 
-    Correlation heatmap between health parameters
+    • Correlation heatmap between health parameters
     
-    Distribution plots for BMI, Sleep Hours, Calories, etc.
+    • Distribution plots for BMI, Sleep Hours, Calories, etc.
     
-    Bar plots for age vs fitness level
+    • Bar plots for age vs fitness level
     
-    Pie charts for Fit vs Unfit ratio
+    • Pie charts for Fit vs Unfit ratio
 
 3.Model Building
 
-    Split data into training & testing sets
+    • Split data into training & testing sets
     
-    Compared model accuracies and confusion matrices
+    • Compared model accuracies and confusion matrices
 
 
 4.Insights
 
-  People with balanced sleep (6–8 hrs) and moderate calorie intake show higher fitness.
+  • People with balanced sleep (6–8 hrs) and moderate calorie intake show higher fitness.
   
-  Very low or very high BMI correlates with being unfit.
+  • Very low or very high BMI correlates with being unfit.
   
-  Activity level is a strong predictor of fitness.
+  • Activity level is a strong predictor of fitness.
 
 <h1>📊 Visualizations</h1>
 
